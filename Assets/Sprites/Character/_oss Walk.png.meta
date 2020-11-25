@@ -1,0 +1,385 @@
+fileFormatVersion: 2
+guid: 31f4e238f3f5ab1428ff11a474280d5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1295874763795367022
+    second: _oss Walk_0
+  - first:
+      213: 3074783248113384140
+    second: _oss Walk_1
+  - first:
+      213: -4932487195426914632
+    second: _oss Walk_2
+  - first:
+      213: -8599696213893892458
+    second: _oss Walk_3
+  - first:
+      213: -921347184150676540
+    second: _oss Walk_4
+  - first:
+      213: -1485349387384027315
+    second: _oss Walk_5
+  - first:
+      213: 1489507777791668753
+    second: _oss Walk_6
+  - first:
+      213: -1258893926701688542
+    second: _oss Walk_7
+  - first:
+      213: 1516231537734542140
+    second: _oss Walk_8
+  - first:
+      213: 5282653151632350051
+    second: _oss Walk_9
+  - first:
+      213: -7954762465234950186
+    second: _oss Walk_10
+  - first:
+      213: 9152895822533902026
+    second: _oss Walk_11
+  - first:
+      213: -4978128491095391861
+    second: _oss Walk_12
+  - first:
+      213: -9208853482070823674
+    second: _oss Walk_13
+  - first:
+      213: -7458450623317141049
+    second: _oss Walk_14
+  - first:
+      213: -1387082648763985506
+    second: _oss Walk_15
+  - first:
+      213: 6762847780282818695
+    second: _oss Walk_16
+  - first:
+      213: -7482285598771240490
+    second: _oss Walk_17
+  - first:
+      213: -116457546967583298
+    second: _oss Walk_18
+  - first:
+      213: 8699242926177812551
+    second: _oss Walk_19
+  - first:
+      213: -8285002823667574682
+    second: _oss Walk_20
+  - first:
+      213: -1957502838732838718
+    second: _oss Walk_21
+  - first:
+      213: -8202459905071916185
+    second: _oss Walk_22
+  - first:
+      213: 5721478798653475120
+    second: _oss Walk_23
+  - first:
+      213: 4781642009201584436
+    second: _oss Walk_24
+  - first:
+      213: -6484844994681740346
+    second: _oss Walk_25
+  - first:
+      213: 9092564517823241653
+    second: _oss Walk_26
+  - first:
+      213: 1430631642147017491
+    second: _oss Walk_27
+  - first:
+      213: -8023853193351652480
+    second: _oss Walk_28
+  - first:
+      213: -8628650347030043310
+    second: _oss Walk_29
+  - first:
+      213: 7334146931010086078
+    second: _oss Walk_30
+  - first:
+      213: 5857626472575677525
+    second: _oss Walk_31
+  - first:
+      213: 3425381494656377335
+    second: _oss Walk_32
+  - first:
+      213: -3257869961812216218
+    second: _oss Walk_33
+  - first:
+      213: -5355074894540919097
+    second: _oss Walk_34
+  - first:
+      213: -5892084245713231198
+    second: _oss Walk_35
+  - first:
+      213: -4762976370709141728
+    second: _oss Walk_36
+  - first:
+      213: 303168940530143371
+    second: _oss Walk_37
+  - first:
+      213: 2251919522801456151
+    second: _oss Walk_38
+  - first:
+      213: 3842737689882893400
+    second: _oss Walk_39
+  - first:
+      213: 5591810866258659100
+    second: _oss Walk_40
+  - first:
+      213: -7280005665471709038
+    second: _oss Walk_41
+  - first:
+      213: 8424987338659659992
+    second: _oss Walk_42
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: _oss Walk_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 150
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b7596a4c0240ee0800000000000000
+      internalID: -1295874763795367022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _oss Walk_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 320
+        width: 150
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccabe11c213dbaa20800000000000000
+      internalID: 3074783248113384140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _oss Walk_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 320
+        width: 150
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be7a6977094c8bb0800000000000000
+      internalID: -4932487195426914632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _oss Walk_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 150
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696359a4bddb7a880800000000000000
+      internalID: -8599696213893892458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _oss Walk_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 128
+        width: 150
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb74e51e97b633f0800000000000000
+      internalID: -921347184150676540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _oss Walk_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 128
+        width: 150
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4781a51a9af26be0800000000000000
+      internalID: -1485349387384027315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
