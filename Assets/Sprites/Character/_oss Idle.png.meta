@@ -161,13 +161,13 @@ TextureImporter:
       name: _oss Idle_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 305
-        width: 142
+        x: 2
+        y: 306
+        width: 143
         height: 206
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
+      alignment: 9
+      pivot: {x: 0.567532, y: 0.44033575}
+      border: {x: 1, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -182,12 +182,12 @@ TextureImporter:
       name: _oss Idle_1
       rect:
         serializedVersion: 2
-        x: 144
-        y: 303
-        width: 144
+        x: 148
+        y: 304
+        width: 155
         height: 208
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 0.5283199, y: 0.4493508}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

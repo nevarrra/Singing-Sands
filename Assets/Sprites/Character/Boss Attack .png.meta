@@ -1,7 +1,43 @@
 fileFormatVersion: 2
 guid: cb8c600c5db5ddb4c895a710efda9506
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -4579301189027825476
+    second: Boss Attack _0
+  - first:
+      213: -8163785208924225400
+    second: Boss Attack _1
+  - first:
+      213: 2204726810876768176
+    second: Boss Attack _2
+  - first:
+      213: -1198694021028031543
+    second: Boss Attack _3
+  - first:
+      213: 9165699466713278949
+    second: Boss Attack _4
+  - first:
+      213: 2930266164748792726
+    second: Boss Attack _5
+  - first:
+      213: -7864277663794908146
+    second: Boss Attack _0
+  - first:
+      213: -211543232002186490
+    second: Boss Attack _1
+  - first:
+      213: 191188232185454004
+    second: Boss Attack _2
+  - first:
+      213: 2374141618830756064
+    second: Boss Attack _3
+  - first:
+      213: 5878369169226988302
+    second: Boss Attack _4
+  - first:
+      213: -3555778864246809043
+    second: Boss Attack _5
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +77,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -73,9 +109,150 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Boss Attack _0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 274
+        width: 133
+        height: 237
+      alignment: 9
+      pivot: {x: 0.56, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8f87ca4dd0370c0800000000000000
+      internalID: -4579301189027825476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Attack _1
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 261
+        width: 140
+        height: 251
+      alignment: 9
+      pivot: {x: 0.56, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880cb772b9864be80800000000000000
+      internalID: -8163785208924225400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Attack _2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 256
+        width: 134
+        height: 255
+      alignment: 9
+      pivot: {x: 0.56, y: 0.44}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfe6157a53c89e10800000000000000
+      internalID: 2204726810876768176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Attack _3
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 13
+        width: 216
+        height: 242
+      alignment: 9
+      pivot: {x: 0.72664136, y: 0.44362772}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c35d3a83226d5fe0800000000000000
+      internalID: -1198694021028031543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Boss Attack _5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 61
+        width: 265
+        height: 194
+      alignment: 9
+      pivot: {x: 0.76871175, y: 0.55765873}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 693b2373d856aa820800000000000000
+      internalID: 2930266164748792726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
